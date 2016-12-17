@@ -1,5 +1,5 @@
 # fa16-honors-project
-To start the game, your mission is to retrieve 7 key pieces in order to enter the boss room:<br />
+**To start the game, your mission is to retrieve 7 key pieces in order to enter the boss room:**<br />
 key_piece_1: "pick" in room_2<br />
 key_piece_2: "openbrown" chest in room_4 and get bomb for key_piece_3<br />
 key_piece_3: "kill" poopy in room_11 to get the coin and "talk" to business man in room_10 and get golden key for golden chest<br />
@@ -9,7 +9,7 @@ key_piece_6: "opengolden" chest in room_7 and get quantum core for teleportation
 key_piece_7: unlock automatically when you have seen over 7 different room.<br />
 After you have 7 key pieces, type end to enter the boss room, and you will see that every time you attack the Monstro, it will lose one bloods. After three attacks, you will kill the Monstro.<br />
 
-For the requirement:<br />
+**For the requirement:**<br />
 (Yep!)At least 15 rooms.<br />
 (Got that!)At least 15 commands, not including aliases (e.g., n and north and go north all count as one command).<br />
 (Absolutely!)To solve the game, the player must retrieve at least one object that is not obtainable without solving a puzzle of some kind.<br />
@@ -17,7 +17,7 @@ For the requirement:<br />
 (You can kill the Monstro, be gentle will you?)Some of the objects and rooms should have state associated with them, i.e., something about them can change as a result of the player’s actions.<br />
 
 
-guidebook:
+**Guidebook:**<br />
 
 "As a person, you can do:<br />
     [north]: Go north.<br />
