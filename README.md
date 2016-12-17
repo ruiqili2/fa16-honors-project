@@ -6,8 +6,9 @@ key_piece_3: "kill" poopy in room_11 to get the coin and "talk" to business man 
 key_piece_4: solve the "puzzel" in room_6<br />
 key_piece_5: go down to the "basement" under room_13 and get tele_machine for key_piece_6<br />
 key_piece_6: "opengolden" chest in room_7 and get quantum core for teleportation<br />
-key_piece_7: unlock automatically when you have seen over 7 different room.<br />
-After you have 7 key pieces, type end to enter the boss room, and you will see that every time you attack the Monstro, it will lose one bloods. After three attacks, you will kill the Monstro.<br />
+key_piece_7: unlock automatically when you have seen over 7 different room.<br /><br />
+
+**After you have 7 key pieces, type end to enter the boss room, and you will see that every time you attack the Monstro, it will lose one bloods. After three attacks, you will kill the Monstro.**<br />
 
 **For the requirement:**<br />
 (Yep!)At least 15 rooms.<br />
