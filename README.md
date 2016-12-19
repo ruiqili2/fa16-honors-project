@@ -25,7 +25,7 @@ key_piece_7: unlock automatically when you have seen over 7 different room.<br /
      [east]: Go east.<br />
      [west]: Go west.<br />
      [south]: Go south.<br />
-     [back]: Go back to the last room.<br />
+     [back]: Go back to the last room. You can only use back when you have not did anything in current room.<br />
      [up]: Useful when you want to leave a basement.<br />
     [roominfo]: Print the basic information of your 
     current location. (Be sure to use it very often to 
